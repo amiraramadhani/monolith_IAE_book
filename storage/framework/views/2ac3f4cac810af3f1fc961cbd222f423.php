@@ -1,0 +1,1 @@
+<h1 class="font-bold text-center text-4xl mb8"> <?php echo e($slot); ?> </h1><?php /**PATH /Users/ramadhanivanvafauzia/Documents/Kuliah/semester 6/Integrasi Aplikasi Enterprise/mini project tugas 2/google-books-search/resources/views/components/page-heading.blade.php ENDPATH**/ ?>
